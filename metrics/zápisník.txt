@@ -1,0 +1,7 @@
+Smazání řádků začátek 60 a konec 300
+
+SMOOTHING NA EME SE ZAMYSLET/OTESTOVAT
+
+Fix model.py - jestli bude fungovat
+Fix test_model.py, překopat metriky a grafy
+automation.py
